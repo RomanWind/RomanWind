@@ -1,5 +1,4 @@
-### 👋 Hi, Roman github here
-- 😄 Pronouns: He/Him
+### 👋 Hi, Roman here
 - 💻 YouTuber with 150000 subs in past
 - 🌱 I’m currently learning C# and Unity
 
